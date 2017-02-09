@@ -32,6 +32,13 @@ to [set up a recurring donation, via Patreon][patreon]. :rocket:
 
 Thanks! :heart:
 
+## :cake: Thanks
+
+ - I found about the [wunderground.com](https://www.wunderground.com/) API service from [Kim Sarabia (**@kimsarabia**)](https://github.com/KimSarabia). Thanks! :cake:
+ - The icons were created by [**@deiu**](https://github.com/deiu/weather-icons). :cake:
+ - The forecast information is provided by [wunderground.com](https://www.wunderground.com/).
+
+
 
 ## :scroll: License
 
