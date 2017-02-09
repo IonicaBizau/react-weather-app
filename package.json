@@ -43,6 +43,7 @@
     "is_only_web": false,
     "ex_img": "https://i.imgur.com/thRBbbW.png",
     "ex_url": "https://ionicabizau.github.io/react-weather-app",
+    "title": "Weather App",
     "installation_command": {
       "language": "sh",
       "content": [
