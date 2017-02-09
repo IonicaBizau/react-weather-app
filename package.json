@@ -2,13 +2,13 @@
   "name": "react-weather-app",
   "description": "A weather app built with React.",
   "version": "1.0.0",
-  "private": true,
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
   "dependencies": {
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "react-github-corner": "^0.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
