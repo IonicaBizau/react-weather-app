@@ -1,7 +1,7 @@
 {
   "name": "react-weather-app",
   "description": "A weather app built with React.",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
@@ -25,6 +25,7 @@
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
     "cli.js",
