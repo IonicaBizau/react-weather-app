@@ -47,6 +47,7 @@ Thanks! :heart:
  - The forecast information is provided by [wunderground.com](https://www.wunderground.com/).
 
 
+
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
